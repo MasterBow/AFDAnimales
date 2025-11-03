@@ -1,0 +1,20 @@
+# El Perrito Guardián
+# Línea vacía = ε
+# Pruebas de secuencia a+ b a
+
+a
+b
+ab
+ba
+aba
+aaba
+abaa
+abba
+baba
+bbaba
+bba
+abb
+ababaa
+babab
+bbbaba
+aaaba

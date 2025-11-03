@@ -1,0 +1,16 @@
+# El Gatito de los Tres Pasos
+# Una línea vacía representa ε (cadena vacía)
+
+a
+aa
+
+aaa
+aab
+abb
+abba
+bba
+babab
+bababa
+bbb
+bbaaab
+aaaaaa

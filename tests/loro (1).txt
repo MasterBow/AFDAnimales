@@ -1,0 +1,16 @@
+# El Loro que Contaba 'a's Pares
+# Línea vacía = ε
+# Pruebas de paridad
+
+a
+
+aa
+b
+ab
+ba
+aba
+abba
+aaab
+aabb
+bbb
+bababa

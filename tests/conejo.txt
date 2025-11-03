@@ -1,0 +1,17 @@
+# El Conejo que Termina en 'bb'
+# Línea vacía = ε
+# Pruebas de sufijo 'bb'
+
+a
+b
+
+bb
+abb
+aabb
+bab
+babbb
+bbb
+abbb
+abab
+baba
+bba
